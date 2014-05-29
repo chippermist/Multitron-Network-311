@@ -12,8 +12,11 @@ PACKET COMPOSITION
 Offset      Size      Description
 -----------------------------------
 0             4       Multitron instruction
+
 4             2       No of bytes n in buffer
+
 6             2       Return Value  
+
 8             n       Data buffer
 -----------------------------------
 
